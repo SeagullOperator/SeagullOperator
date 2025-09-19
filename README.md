@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 2.5em; font-weight: bold; background: linear-gradient(90deg, #a200ffaf, #1a1affaf); -webkit-background-clip: text; color: transparent;">Jami Sinisalo</div>
+<h1 align="center" style=" margin: 0;">Jami Sinisalo</h1>
 <div align="center" style="margin: 0; font-size: smaller;">
     <strong>@SeagullOperator</strong>
 </div>
