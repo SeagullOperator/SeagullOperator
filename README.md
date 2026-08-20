@@ -7,8 +7,9 @@
 
 - 🎓 ICT Engineering student at [LAB University of Applied Sciences](https://lab.fi/)
     <img src="https://lab.fi/themes/custom/lab/favicon.ico" alt="LAB Logo" height="18" align="absmiddle"> 
-- 💻 Passionate about **Cybersecurity**, **Automation**, and **Scripting**
-- 💡 Currently learning **Programming Languages**, **Machine Learning**, and **Embedded Systems**
+- 💻 Passionate about **Software Engineering**, **Automation**, **AI/ML**, and **Cybersecurity**
+- 🧠 Enjoy **solving technical problems**, building projects, and understanding how systems work
+- 🌱 Currently deepening my skills in **AI/ML**, **Software Development**, and **Embedded Systems**
 
 ## ⚙ Tech Stack
 
@@ -16,7 +17,6 @@
 <img width="30px" hspace="" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="30px" hspace="6" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="30px" hspace="0" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-<img width="30px" hspace="3" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img width="30px" hspace="" alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
 
 **Web & Frameworks**  
